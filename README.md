@@ -1,7 +1,8 @@
-<!-- Banner image at the top -->
-![Banner Image](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
+<h3 align="center">A Passionate Application Developer and Data Analyst from India from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-data-analytics-illustration-download-in-svg-png-gif-file-formats--logo-programming-analysis-program-code-technology-pack-business-illustrations-5805788.png">
 
-# 👩‍💻 Welcome to the GitHub of Sasikala Sivakumar!
+
 
 Hi there! 👋 I'm Sasikala Sivakumar, a passionate Data Analyst with a strong background in SQL, PowerBI, Excel, and Git. My focus is on transforming data into actionable insights through powerful data analysis, optimization, and visualization techniques. I work with advanced tools to ensure accuracy, data integrity, and efficiency in every project. Let’s explore the data world together! 🚀
 
@@ -12,6 +13,12 @@ Feel free to explore my repositories, projects, and contributions! 🌟
 ## 🛠️ Skills & Tools
 
 I use a wide range of tools and technologies to analyze, visualize, and model data. Here are some of my core skills:
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
 
 ### Data Analysis:
 - **SQL** (Oracle SQL, MySQL, PostgreSQL) 🖥️   
