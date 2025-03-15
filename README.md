@@ -4,7 +4,7 @@
 
 
 
-Hi there! 👋 I'm Sasikala Sivakumar, a passionate Data Analyst with a strong background in SQL, PowerBI, Excel, and Git. My focus is on transforming data into actionable insights through powerful data analysis, optimization, and visualization techniques. I work with advanced tools to ensure accuracy, data integrity, and efficiency in every project. Let’s explore the data world together! 🚀
+Hi there! 👋 I'm Sasikala Sivakumar, a passionate Application Developer and Data Analyst with a strong background in Oracle SQL, Oracle PLSQL, ETL, MS Access DB, GIT, Oracle Financial Cloud, Oracle Database Architecture, Excel, PowerBI, Linux. My focus is on transforming data into actionable insights through powerful data analysis, optimization, and visualization techniques. I work with advanced tools to ensure accuracy, data integrity, and efficiency in every project. Let’s explore the data world together! 🚀
 
 Feel free to explore my repositories, projects, and contributions! 🌟
 
