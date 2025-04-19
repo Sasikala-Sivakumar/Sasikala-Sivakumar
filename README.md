@@ -21,7 +21,8 @@ I use a wide range of tools and technologies to analyze, visualize, and model da
 
 
 ### Data Analysis:
-- **SQL** (Oracle SQL, MySQL, PostgreSQL) 🖥️   
+- **SQL** (Oracle SQL, MySQL, PostgreSQL) 🖥️
+- **Oracle Financial Cloud**   
 - **PowerBI** 📈  
 - **Excel** (Advanced Functions, Pivot Tables, Macros) 📑 🔧  
 - **Data Modeling** 📊📐  
