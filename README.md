@@ -1,5 +1,5 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
-<h3 align="center">A Passionate Application Developer and Data Analyst from India from India</h3>
+<h3 align="center">A Passionate Application Developer and Data Analyst from India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-data-analytics-illustration-download-in-svg-png-gif-file-formats--logo-programming-analysis-program-code-technology-pack-business-illustrations-5805788.png">
 
 
@@ -90,8 +90,8 @@ CGPA: 8.7 | _Aug 2018 – Jun 2022_
 - **PowerBI Certification**
 - **SQL for Data Analysis (HackerRank)**
 - **Excel Data Analysis & Visualization**
-- **Git for Data Analysts**
-- **Oracle SQL Associate Certification**
+- **Git**
+- **Oracle SQL Associate Certification** from Oracle
 - **Oracle PLSQL Associate Certification** from Oracle
 - **OCI 2024 Generative AI Professional** from Oracle
 
