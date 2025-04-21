@@ -94,6 +94,7 @@ CGPA: 8.7 | _Aug 2018 – Jun 2022_
 - **Oracle SQL Associate Certification** from Oracle
 - **Oracle PLSQL Associate Certification** from Oracle
 - **OCI 2024 Generative AI Professional** from Oracle
+- **Oracle Cloud Financials Certification** from Oracle
 
 ---
 
