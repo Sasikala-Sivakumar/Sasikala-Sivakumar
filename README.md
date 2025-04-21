@@ -88,7 +88,6 @@ CGPA: 8.7 | _Aug 2018 – Jun 2022_
 
 ## 🏅 Certifications & Training
 
-- **PowerBI Certification**
 - **SQL for Data Analysis (HackerRank)**
 - **Excel Data Analysis & Visualization**
 - **Git**
