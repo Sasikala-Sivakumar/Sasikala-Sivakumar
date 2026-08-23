@@ -45,6 +45,22 @@ I use a wide range of tools and technologies to analyze, visualize, and model da
 
 ## 💼 Professional Experience
 
+### Intellimind Service India Private Limited, Bengaluru
+**Oracle PL/SQL Developer** | _Aug 2025 - Present_
+
+- Developed and maintained Oracle PL/SQL packages, procedures, functions, triggers, views, tables, and complex SQL queries supporting business applications.
+- Analyzed functional and business requirements and translated them into efficient database solutions aligned with application and business needs.
+- Optimized SQL and PL/SQL code using execution-plan analysis, indexing, query optimization, and performance-tuning techniques.
+- Performed production support, database troubleshooting, and root-cause analysis to resolve application and data-related issues.
+- Implemented data validation and integrity checks to improve data accuracy, consistency, and reliability across database processes.
+- Collaborated with Business, Operations, QA, and technical teams throughout requirement analysis, development, testing, deployment, and production support.
+
+**Key Projects:**
+
+- **LIP:** Developed and maintained Oracle PL/SQL database components based on functional and business requirements. Performed SQL/PLSQL optimization, troubleshooting, issue resolution, and production support.
+- **Expleo:** Contributed across the complete SDLC, including requirement analysis, development, testing, deployment, and support. Developed packages, procedures, functions, triggers, views, and SQL queries while performing performance tuning and root-cause analysis.
+- **TotalMS:** Developed Oracle PL/SQL solutions and supported application development using database objects. Performed troubleshooting, root-cause analysis, production support, and data-integrity validation.
+
 ### Accenture Solutions Private Limited, Bengaluru
 **Packaged Application Developer** | _Sept 2023 - Present_
 - Designed and implemented PL/SQL packages to streamline database processes and optimize performance.
