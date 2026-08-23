@@ -62,7 +62,7 @@ I use a wide range of tools and technologies to analyze, visualize, and model da
 - **TotalMS:** Developed Oracle PL/SQL solutions and supported application development using database objects. Performed troubleshooting, root-cause analysis, production support, and data-integrity validation.
 
 ### Accenture Solutions Private Limited, Bengaluru
-**Packaged Application Developer** | _Sept 2023 - Present_
+**Packaged Application Developer** | _Sept 2023 - Aug 2025_
 - Designed and implemented PL/SQL packages to streamline database processes and optimize performance.
 - Wrote complex SQL queries for data retrieval, manipulation, and reporting, ensuring data integrity across all business functions.
 - Improved query performance by 40% by utilizing indexing strategies and analyzing execution plans.
